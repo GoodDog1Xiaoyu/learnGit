@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-Ma zhen & Li qian.
+Ma zhen & Li qian
